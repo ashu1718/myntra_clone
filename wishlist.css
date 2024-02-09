@@ -1,0 +1,33 @@
+
+.remove-from-cart {
+    position:absolute;
+    font-size: 25px;
+    top: 5px;
+    right: 5px;
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+  }
+ .wishlist-page{
+    margin-left: 10%;
+    width: 80%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+
+    
+ }
+  .delete-image{
+    width: 20px;
+    
+  }
+  .but2{
+    padding: 5px;
+  }
+  .wish-count{
+    
+    margin-left: 10%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+  }
